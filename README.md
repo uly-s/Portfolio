@@ -39,6 +39,7 @@ Performance/Implementation wise the site is configured such that each page (bar 
   If you got this far you may have noticed that while I've done a lot of self teaching and projects on my own I have done ~0 open source contribution and collaboration, this is the early stage of my attempt to fix that with a project of my own. 
   The goal of this project is a digital native format and language/applications for tabletop rpgs. Essentially bringing them into the 21st century while preserving and enhancing what makes TTRPGs special and different from videogames, by defining them in a machine readable and computable system instead of natural language documents. 
   Write now it's mostly a maniacal fever dream but everyone I've explained the project too says I'm onto something. I look foward to being able to dedicate regular time to it in the future and bring others on.
+  I think software for table top RPGs is a drastically unexplored design space and one that presents interesting and challenging problems requiring a good deal of nuance, I think the potential is there to greatly overhaul how games like DnD are played while opening them up to a wider audience. I would be so, so happy to make a career out of this. 
   
   
 
